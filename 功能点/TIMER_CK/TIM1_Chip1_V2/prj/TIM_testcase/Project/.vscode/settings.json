@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "stm32f4xx_spi.h": "c",
+        "stm32f4xx_flash.h": "c"
+    }
+}
